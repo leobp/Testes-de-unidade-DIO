@@ -1,0 +1,15 @@
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache

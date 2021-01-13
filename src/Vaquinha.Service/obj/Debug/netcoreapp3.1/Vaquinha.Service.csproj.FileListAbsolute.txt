@@ -1,0 +1,14 @@
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+c:\Users\sidera\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb
